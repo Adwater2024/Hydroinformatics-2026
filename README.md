@@ -7,11 +7,11 @@ Analysis of USGS streamflow data across different temporal scales for Assignment
 ## Repository Structure
 
 Hydroinformatics-2026/
-├── Data/                   # Streamflow data (NWIS)
-├── notebooks/              # Jupyter notebooks
-├── homework_1.yml          # Conda environment
-├── README.md              # This file
-└── .gitignore             # files ignored by git uploads
+ Data/                   # Streamflow data (NWIS) 
+ notebooks/              # Jupyter notebooks
+ homework_1.yml          # Conda environment
+ README.md              # This file
+.gitignore             # files ignored by git uploads
 
 ## Setup Instructions
 
